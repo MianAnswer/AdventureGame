@@ -1,0 +1,16 @@
+# Out-of-source build dirs
+/build/
+/bin/
+
+# Object files and dependency files
+*.o
+*.obj
+*.d
+
+# Executables
+*.exe
+*.out
+
+# IDE/editor files
+.vscode/
+*.swp
