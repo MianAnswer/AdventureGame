@@ -1,8 +1,7 @@
 #include <iostream>
 
-using namespace std;
-
 int main() {
-    cout << "Hello, Adventure Game!" << endl;
+    using std::cout;
+    cout << "Hello, Adventure Game!\n";
     return 0;
 }
